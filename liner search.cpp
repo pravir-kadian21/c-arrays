@@ -12,7 +12,7 @@ int main() {
     int i;
     for(i=0;i<n;i++){
         if(a[i]==key){
-            cout << key << " found at " << i << " index" << endl;
+            cout << key << " found at " << i << " index yes" << endl;
             break;
         }
     }
